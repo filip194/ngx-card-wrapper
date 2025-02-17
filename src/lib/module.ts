@@ -20,4 +20,4 @@ const CARD_DIRECTIVES = [
   declarations: [CARD_DIRECTIVES],
   exports: [CARD_DIRECTIVES],
 })
-export class NgxCardAngularModule {}
+export class NgxCardWrapperModule {}
